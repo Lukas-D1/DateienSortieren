@@ -1,0 +1,2 @@
+/home/$USER/Downloads
+/home/$USER/[ORDNERNAME]
