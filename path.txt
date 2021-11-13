@@ -1,2 +1,2 @@
 /home/$USER/Downloads
-/home/$USER/[ORDNERNAME]
+C:/USERS/%username%/Downloads
