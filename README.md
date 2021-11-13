@@ -1,6 +1,6 @@
 # DateienSortieren
 
-Ein Skript, welches die Dateien in einem Verzeichnis sortiert. Dabei werden die Dateien nach ihrer Endung sortiert. Bisher gibt es folgende Endungen:
+Ein Skript, welches die Dateien in einem Verzeichnis sortiert. Dabei werden die Dateien nach ihrer Endung in entsprechende Ordner sortiert. Bisher gibt es folgende Endungen:
 
 -Bilder: ["jpg", "png", "ico", "bmp", "gif", "PNG", "jpeg", "cur", "ani", "jfif", "svg"]
 
@@ -20,4 +20,4 @@ Ein Skript, welches die Dateien in einem Verzeichnis sortiert. Dabei werden die 
 
 -Ordner: ""
 
-Für die Ausführung wird mindestens Python 3.6 benötigt, das genutzte Paket ist bereits in der Python-Installation enthalten. Das Skirpt funktioniert sowohl für Linux-Distributionen als auch für Windows 7 & Windows 10.
+Für die Ausführung wird mindestens Python 3.6 benötigt, das genutzte Paket ist bereits in der Python-Installation enthalten. Das Skript funktioniert sowohl für Linux-Distributionen als auch für Windows 7 & Windows 10.
